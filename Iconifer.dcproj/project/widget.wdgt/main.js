@@ -207,7 +207,7 @@ function updateFeedback(event) {
 }
 
 function updateLoc(event) {
-	prefLoc = document.getElementById("loc").value;
+	prefLocation = document.getElementById("loc").value;
 }
 
 function updateSharpSize(event) {
